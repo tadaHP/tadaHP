@@ -19,7 +19,7 @@
 
 
 ### Contact With
-<a href="gusvy0220@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="mailto:gusvy0220@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
 ### Blog
 <a href="https://velog.io/@tadap" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Vellog&logoColor=white"/>
